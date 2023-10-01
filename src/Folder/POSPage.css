@@ -1,0 +1,103 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    flex: 1;
+    border: 3px solid white;
+}
+.row_sub{
+    margin-left: 1rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    align-items: center;
+}
+.col_sub{
+    align-items: center;
+    justify-content: center;
+}
+.border{
+    border-radius: .5rem;
+    margin-left: .5rem;
+    
+}
+.pro_img{
+    height: 70px;
+    width: 70px;
+    margin-bottom:.7rem;
+}
+
+.prc{
+    font-weight: bolder;
+    justify-content: center;
+    margin-left: .5rem;
+    align-items: center;
+}
+
+
+.table{
+    background-color: aliceblue;
+    height: 100vh;
+}
+ 
+.thed{
+    height: 5vh;
+}
+
+.tby{
+    height: 30vh;
+}
+.sele{
+    display: flex;
+    flex-direction: row;
+    gap: 2PX;
+    padding-left: 2rem;
+    
+}
+.ft{
+    height: 30vh;
+}
+
+.btn_c{
+    background-color: rgb(223, 58, 58);
+    width: 170px;
+    height: 40px;
+}
+
+.btn_s{
+    background-color:rgb(23, 107, 23);
+    width: 170px;
+    height: 40px;
+}
+
+.one_tr{
+    gap: 30px;
+}
+
+.trd{
+    display: flex;
+    flex-direction: row;
+    column-gap: 4rem;
+}
+
+.tmd{
+   text-align:center;
+    justify-content: center;
+}
+
+.qtyd{
+    display: flex;
+    flex-direction: row;
+    row-gap: 2px;
+}
+
+.ad{
+    border: 0.4px solid gray;
+    color: rgb(49, 165, 49);
+}
+
+.rm{
+    border: 0.4px solid gray;
+    color: rgb(223, 58, 58);
+}

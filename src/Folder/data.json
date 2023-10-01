@@ -1,0 +1,138 @@
+
+{
+  "products":[
+      {
+          "id":"1",
+          "name":"COMPUTER",
+          "price":"70",
+          "image":"https://cdn.pixabay.com/photo/2017/11/27/21/31/computer-2982270_1280.jpg"
+
+      },
+      {
+          "id":"2",
+          "name":"GRAPES",
+          "price":"30",
+          "image":"https://cdn.pixabay.com/photo/2018/07/20/14/02/grapes-3550733_1280.jpg"
+
+      },
+      {
+          "id":"3",
+          "name":"KEYBOARD",
+          "price":"10",
+          "image":"https://media.istockphoto.com/id/1332153694/photo/laptop-notebook-keyboard-with-colorful-background.webp?b=1&s=612x612&w=0&k=20&c=PZ4AWm4rMVMhDOEAWUZZlEcSPkO-c723ftmq4v7gqk0="
+
+      },
+      {
+          "id":"4",
+          "name":"CLOTHING",
+          "price":"45",
+          "image":"https://media.istockphoto.com/id/1338894509/photo/woman-choosing-a-new-style-for-herself.webp?b=1&s=612x612&w=0&k=20&c=dZlTyK-c2DrUNbLzGLKnoGm1dxsdfr9x2dea08fqiF8="
+
+      },
+      {
+          "id":"5",
+          "name":"CAVIAR",
+          "price":"32",
+          "image":"https://cdn.pixabay.com/photo/2014/07/10/13/05/caviar-389065_640.jpg"
+
+      },
+      {
+          "id":"6",
+          "name":"STRAWBERIES",
+          "price":"87",
+          "image":"https://cdn.pixabay.com/photo/2014/02/07/04/13/strawberry-260687_640.jpg"
+
+      },
+      {
+          "id":"7",
+          "name":"HEADPHONE",
+          "price":"77",
+          "image":"https://cdn.pixabay.com/photo/2018/09/17/14/27/headphones-3683983_640.jpg"
+
+      },
+      {
+          "id":"8",
+          "name":"NIVEA POCKET",
+          "price":"57",
+          "image":"https://cdn.pixabay.com/photo/2018/01/23/16/44/steel-3101812_640.jpg"
+
+      },
+      {
+          "id":"9",
+          "name":"APPLE",
+          "price":"42",
+          "image":"https://cdn.pixabay.com/photo/2014/02/01/17/28/apple-256261_640.jpg"
+
+      },
+      {
+          "id":"10",
+          "name":"MOTHERBOARD",
+          "price":"777",
+          "image":"https://cdn.pixabay.com/photo/2023/04/03/19/37/soldering-7897827_1280.jpg"
+
+      },
+      {
+          "id":"11",
+          "name":"TEA",
+          "price":"7",
+          "image":"https://cdn.pixabay.com/photo/2018/03/19/18/20/tea-time-3240766_640.jpg"
+
+      },
+      {
+          "id":"12",
+          "name":"ORANGE",
+          "price":"54",
+          "image":"https://media.istockphoto.com/id/1227301369/photo/whole-cross-section-and-quarter-of-fresh-organic-navel-orange-with-leaves-in-perfect-shape-on.webp?b=1&s=612x612&w=0&k=20&c=tKg5TfmPOrhf0XxvWeKZ37Pqaoh6nsNCU6kUMVVqY20="
+
+      },
+      {
+          "id":"13",
+          "name":"NOTEBOOK",
+          "price":"77",
+          "image":"https://cdn.pixabay.com/photo/2017/05/12/08/29/coffee-2306471_640.jpg"
+
+      },
+      {
+          "id":"14",
+          "name":"JACKET",
+          "price":"543",
+          "image":"https://cdn.pixabay.com/photo/2015/12/03/22/10/man-1075770_640.jpg"
+
+      },
+      {
+          "id":"15",
+          "name":"KIWI",
+          "price":"43",
+          "image":"https://media.istockphoto.com/id/92211343/photo/kiwi.webp?b=1&s=612x612&w=0&k=20&c=lcxP-J_MKj971PUE1Lnito-tSJCd0j53zDXFwPR9uhM="
+
+      },
+      {
+          "id":"16",
+          "name":"COMPUTER REPAIR",
+          "price":"43",
+          "image":"https://media.istockphoto.com/id/1403026022/photo/man-in-t-shirt-repairs-computer-system-unit-with-screwdriver.webp?b=1&s=612x612&w=0&k=20&c=bXds6o19EsehZP-_ApaXcYmdHrsJjN2LCrPBjx27pQg="
+
+      },
+      {
+          "id":"17",
+          "name":"JACKET MEN",
+          "price":"7177",
+          "image":"https://cdn.pixabay.com/photo/2021/03/17/13/59/man-6102393_640.jpg"
+
+      },
+      {
+          "id":"18",
+          "name":"MOUSE",
+          "price":"55",
+          "image":"https://cdn.pixabay.com/photo/2017/05/11/11/15/keyboard-2303849_640.jpg"
+
+      },
+      {
+          "id":"19",
+          "name":"GIFT FOLDING",
+          "price":"71",
+          "image":"https://media.istockphoto.com/id/1302277963/photo/female-hands-holding-christmas-gift-box-with-cookie-mix.jpg?s=612x612&w=0&k=20&c=7Q9qgJGn5WL_vFoRyR9r3qUPfosTVuWk81AqMXYPCkY="
+
+      }
+  ]
+}

@@ -1,0 +1,12 @@
+.Header{
+    background-color: aqua;
+    padding: 1.5rem;
+    margin: 2px;
+    border-radius: 7px;
+}
+
+.navbar_brand{
+    text-decoration: none;
+    font: bolder;
+    font-size: 2rem;
+}
